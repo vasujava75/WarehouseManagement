@@ -36,3 +36,12 @@ Note:- Make sure Java and Maven installed in your machine
 Technologies used: Angular 9, Bootstrap 4, Google Agm for location points, Spring boot,Spring secuirty, Gson library for importing json data,Docker
 
 Remark:- Google image library componnet not implemented fully as some api key issue is there. 
+
+    ### Phase1
+    Implemented display component
+    ### Phase 2
+    Implemented details component
+    ### Phase 3
+    Implemented shopping component
+    ### Misc
+    Implemented other important things for the project at the end.
