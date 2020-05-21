@@ -5,7 +5,7 @@ This project contains angular 9 and spring boot
 ## Running Front-end:-
 
 Note:- Make sure Node is installed in your machine
---> command prompt go to warehouse-frontend folder and run below commands
+--> command prompt go to warehouse-frontend folder(where package.json available) and run below commands
 
 --> npm install
 
@@ -33,6 +33,6 @@ Note:- Make sure Java and Maven installed in your machine
 
 # About the application
 
-Technologies used: Angular 9, Bootstrap 4, Google Agm for location points, Spring boot, Gson library for importing json data,Docker
+Technologies used: Angular 9, Bootstrap 4, Google Agm for location points, Spring boot,Spring secuirty, Gson library for importing json data,Docker
 
 Remark:- Google image library componnet not implemented fully as some api key issue is there. 
