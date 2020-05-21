@@ -23,8 +23,7 @@ public class WarehouseControllerTest {
     @LocalServerPort
     private int port;
 
-    TestRestTemplate restTemplate = new TestRestTemplate();
-
+    TestRestTemplate restTemplate =new TestRestTemplate ("user", "password");
     HttpHeaders headers = new HttpHeaders();
 
     @Test
