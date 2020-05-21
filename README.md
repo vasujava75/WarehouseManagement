@@ -44,4 +44,5 @@ Remark:- Google image library componnet not implemented fully as some api key is
     ### Phase 3
     Implemented shopping component
     ### Misc
-    Implemented other important things for the project at the end.
+    Added other important things like spring security and docker etc. 
+        Due to time constraint i haven't imported json data to db. So haven't used spring-data-jpa 
