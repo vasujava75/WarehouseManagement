@@ -19,7 +19,7 @@ Note:- Make sure Java and Maven installed in your machine
 
 -->mvn clean install
 
--->Go to where DemoAppliction.java resides(folder) then run Java DemoApplication
+-->Go to where WarehouseAppliction.java resides(folder) then run Java DemoApplication
 
 ## Running Back-end Inside docker container:-
 
